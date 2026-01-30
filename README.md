@@ -45,7 +45,7 @@ $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
 # 8. Ссылка на репозиторий
-nothing
+[репозиторий](https://github.com/Samael509/uyutov_lab4)
 # 9. скриншоты из папки repo (img)
 ![скрин](/img/about_me.png)
 # 10. Заключение
