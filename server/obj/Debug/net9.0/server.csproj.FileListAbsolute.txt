@@ -1,0 +1,14 @@
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Работы студентов\uyutov_lab4\server\bin\Debug\net9.0\server.exe
+C:\Работы студентов\uyutov_lab4\server\bin\Debug\net9.0\server.deps.json
+C:\Работы студентов\uyutov_lab4\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Работы студентов\uyutov_lab4\server\bin\Debug\net9.0\server.dll
+C:\Работы студентов\uyutov_lab4\server\bin\Debug\net9.0\server.pdb
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.dll
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\refint\server.dll
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.pdb
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Работы студентов\uyutov_lab4\server\obj\Debug\net9.0\ref\server.dll
